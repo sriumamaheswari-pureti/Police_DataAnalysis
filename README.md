@@ -55,15 +55,6 @@ Data Collection → Data Loading → Data Cleaning → Data Exploration → Data
 
 ---
 
-## 📊 Key Insights
-
-* Behavioral differences observed across genders
-* Patterns identified in search rates during stops
-* Meaningful insights derived from stop duration analysis
-* Age variations identified across violation types
-
----
-
 ## 🛠️ Technologies Used
 
 * Python
